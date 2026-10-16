@@ -2,9 +2,14 @@
 
 A team-based business strategy capstone analyzing PayPal's competitive position in digital payments and developing recommendations for long-term growth, product differentiation, and in-person commerce.
 
-## Project Overview
+**Project type:** Academic strategy / consulting case study  
+**Domain:** FinTech, digital payments, e-commerce  
+**Methods:** SWOT, Porter's Five Forces, VRIN, strategic risk analysis  
+**Course:** BAD 4013 - Business Strategy and Policy, University of Oklahoma
 
-**Business question:** How can PayPal strengthen its competitive position as digital checkout becomes more crowded and consumer payment behavior continues to shift?
+## Business Question
+
+**How can PayPal strengthen its competitive position as digital checkout becomes more crowded and consumer payment behavior continues to shift?**
 
 The project examined four connected strategic problems:
 
@@ -39,7 +44,7 @@ Four capabilities were evaluated:
 - AI-powered fraud protection
 - Two-sided buyer/merchant network
 
-The analysis found that PayPal's fraud-detection capability is especially important because the underlying transaction history and scale of data are more difficult to reproduce than the AI technology itself.
+The most strategically important finding was PayPal's fraud-detection capability. The technology itself is not unique, but the transaction history and scale of data behind it are much harder to reproduce quickly. This makes the underlying data asset more defensible than the AI model alone.
 
 ## Recommendations
 
@@ -72,7 +77,7 @@ Rather than competing with Apple Pay only as a consumer wallet, the strategy pro
 
 ## Risks & Uncertainties
 
-The project also tested its recommendations against three major risks:
+The project tested its recommendations against three major risks:
 
 1. **Competitive entrenchment in POS** - established providers such as Block/Square, Toast, and Clover already have deep merchant relationships and integrated ecosystems.
 2. **Technological disruption** - AI-driven commerce may reduce the importance of the traditional checkout page as a consumer touchpoint.
@@ -80,30 +85,33 @@ The project also tested its recommendations against three major risks:
 
 These risks did not invalidate the recommendations, but they reinforced the need for flexibility and continued investment in internal innovation.
 
+## Key Strategic Takeaway
+
+PayPal's long-term competitiveness depends less on accumulating more assets and more on its ability to **integrate, innovate, and adapt**.
+
+The project's central conclusion was that **internal innovation capacity is the foundation for sustainable competitive advantage**, but that capacity must remain flexible as technology, regulation, competition, and consumer behavior change.
+
 ## Project Deliverables
 
-### Strategic Analysis Report
-- [View report](docs/PayPal_Strategic_Analysis_Report.pdf)
+- [Recruiter-Friendly Case Study](docs/PayPal_Strategic_Case_Study.md) - concise business problem, analysis, recommendations, and risks
+- [Executive Strategy Presentation](docs/Executive_Strategy_Presentation.md) - GitHub-formatted version of the final presentation
+- [References](docs/References.md) - sources used in the academic analysis
 
-### Executive Strategy Presentation
-- [View presentation](docs/PayPal_Strategy_Presentation.pdf)
-
-### Recruiter-Friendly Case Study
-- [View case study](docs/PayPal_Strategic_Case_Study.md)
+The original written report and presentation were the source deliverables for this portfolio version. The repository is organized in Markdown so the project can be reviewed directly in GitHub without downloading files.
 
 ## Skills Demonstrated
 
 `Business Analysis` · `Strategic Analysis` · `Competitive Analysis` · `FinTech` · `Digital Payments` · `SWOT Analysis` · `Porter's Five Forces` · `VRIN Analysis` · `Risk Analysis` · `Market Research` · `Strategic Recommendations` · `Executive Communication`
 
-## Project Context
-
-Academic team capstone completed for **BAD 4013: Business Strategy and Policy** at the **University of Oklahoma**.
-
-This repository showcases the final team deliverables and a portfolio-formatted summary of the project. The analysis is based on publicly available information and course strategy frameworks. It is not affiliated with or endorsed by PayPal.
-
 ## Team
 
 Alera Netzel · Dominique Cootes · Tenley Hyde · Areebah Khan · Caden Reed · Jackson Craig · **Afnan Rafid**
+
+## Academic Context
+
+Academic team capstone completed for **BAD 4013: Business Strategy and Policy** at the **University of Oklahoma** in Spring 2026.
+
+The analysis is based on publicly available information and course strategy frameworks. It is not affiliated with or endorsed by PayPal.
 
 ---
 
