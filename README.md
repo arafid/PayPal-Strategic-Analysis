@@ -93,11 +93,11 @@ The project's central conclusion was that **internal innovation capacity is the 
 
 ## Project Deliverables
 
-- [Recruiter-Friendly Case Study](docs/PayPal_Strategic_Case_Study.md) - concise business problem, analysis, recommendations, and risks
+- [Executive Case Study](docs/PayPal_Strategic_Case_Study.md) - concise business problem, analysis, recommendations, and risks
 - [Executive Strategy Presentation](docs/Executive_Strategy_Presentation.md) - GitHub-formatted version of the final presentation
 - [References](docs/References.md) - sources used in the academic analysis
 
-The original written report and presentation were the source deliverables for this portfolio version. The repository is organized in Markdown so the project can be reviewed directly in GitHub without downloading files.
+The original written report and presentation were the source deliverables. The repository is organized in Markdown so the analysis can be reviewed directly in GitHub without downloading files.
 
 ## Skills Demonstrated
 
@@ -112,9 +112,3 @@ Alera Netzel · Dominique Cootes · Tenley Hyde · Areebah Khan · Caden Reed ·
 Academic team capstone completed for **BAD 4013: Business Strategy and Policy** at the **University of Oklahoma** in Spring 2026.
 
 The analysis is based on publicly available information and course strategy frameworks. It is not affiliated with or endorsed by PayPal.
-
----
-
-### Portfolio Note
-
-This repository is organized as a strategy / consulting case study rather than a software project. Its purpose is to demonstrate structured problem solving, competitive analysis, recommendation development, risk evaluation, and executive communication.
